@@ -1,7 +1,7 @@
-# Setup
+# Profile
 
 ## Windows
-1. cd \ && git clone 
-1. choco install oh-my-posh
+1. `cd \ && git clone <url>`
+1. `choco install oh-my-posh`
 1. Install JetBrains Mono Nerdfont
-1. code $profile -> Add conent from profile.ps1
+1. `code $profile` -> Add content from profile.ps1
