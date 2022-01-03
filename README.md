@@ -1,4 +1,4 @@
-# Profile
+# Profiles
 
 ## Windows
 1. `cd \ && git clone <url>`
